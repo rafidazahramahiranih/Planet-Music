@@ -1,11 +1,7 @@
 # UTS Pemrograman Mobile 2
-Nama Mahasiswa: Rafida Zahra Maharani H.
+Nama: Rafida Zahra Maharani H
 
 NIM: 2130511064
-
-Fakultas Sains dan Teknologi
-
-Universitas Muhammadiyah Sukabumi
 
 ## Deskripsi Proyek
 
@@ -32,3 +28,6 @@ Proyek ini merupakan bagian dari Ujian Tengah Semester (UTS) untuk mata kuliah P
 - React: Library JavaScript untuk membangun antarmuka pengguna.
 - CSS: Digunakan untuk styling aplikasi.
 - LocalStorage: Untuk penyimpanan data koleksi musik.
+
+Fakultas Sains dan Teknologi
+Universitas Muhammadiyah Sukabumi
