@@ -28,6 +28,3 @@ Proyek ini merupakan bagian dari Ujian Tengah Semester (UTS) untuk mata kuliah P
 - React: Library JavaScript untuk membangun antarmuka pengguna.
 - CSS: Digunakan untuk styling aplikasi.
 - LocalStorage: Untuk penyimpanan data koleksi musik.
-
-Fakultas Sains dan Teknologi
-Universitas Muhammadiyah Sukabumi
